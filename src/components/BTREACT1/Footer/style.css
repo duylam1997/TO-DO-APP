@@ -1,0 +1,11 @@
+.footer{
+    width: 200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+}
+
+.btn-active{
+    color: red;
+  }
